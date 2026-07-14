@@ -1,0 +1,6 @@
+{
+  "name": "SmartSpend Pro",
+  "description": "AI-powered payment intelligence and personal financial advisor designed for the next generation.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
